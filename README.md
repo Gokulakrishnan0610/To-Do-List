@@ -2,17 +2,17 @@
 
 This is a simple To-Do List application built with HTML, Tailwind CSS, and JavaScript. The application allows users to add and delete tasks, helping them manage their daily activities effectively.
 
-# Features
+## Features
 
--- **Add New Tasks**: Users can add new tasks to the list.
--- **Delete Tasks**: Users can delete tasks from the list.
--- **Responsive Design**: The application is fully responsive, providing an optimal user experience on both desktop and mobile devices.
+- **Add New Tasks**: Users can add new tasks to the list.
+- **Delete Tasks**: Users can delete tasks from the list.
+- **Responsive Design**: The application is fully responsive, providing an optimal user experience on both desktop and mobile devices.
 
 # Technologies Used
 
-HTML: For the structure of the application.
-Tailwind CSS: For styling and ensuring a responsive design.
-JavaScript: For adding interactivity to the application.
+- **HTML**: For the structure of the application.
+- **Tailwind CSS**: For styling and ensuring a responsive design.
+- **JavaScript**: For adding interactivity to the application.
 
 # How to View
 
