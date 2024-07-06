@@ -4,9 +4,9 @@ This is a simple To-Do List application built with HTML, Tailwind CSS, and JavaS
 
 # Features
 
-Add New Tasks: Users can add new tasks to the list.
-Delete Tasks: Users can delete tasks from the list.
-Responsive Design: The application is fully responsive, providing an optimal user experience on both desktop and mobile devices.
+**Add New Tasks**: Users can add new tasks to the list.
+**Delete Tasks**: Users can delete tasks from the list.
+**Responsive Design**: The application is fully responsive, providing an optimal user experience on both desktop and mobile devices.
 
 # Technologies Used
 
